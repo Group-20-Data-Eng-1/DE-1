@@ -70,7 +70,7 @@ def main():
 
     # Set the basedir here, the root directory from which the search
     # for files stored in a (hierarchical data structure) will originate
-    basedir = r"C:\Users\justu\OneDrive\Documents\Uppsala_University\Period_3\Data_Engineering_1\MSD\MillionSongSubset"  # "." As the default means the current directory
+    basedir = ""  # "." As the default means the current directory
     ext = ".H5"  # Set the extension here. H5 is the extension for HDF5 files.
     #################################################
 
